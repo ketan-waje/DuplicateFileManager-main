@@ -24,7 +24,7 @@ An automated Python utility that identifies and removes duplicate files from spe
 
 Clone this repository:
 ```
-git clone https://github.com/SUJITWANDRE01/DuplicateFileManager.git
+https://github.com/ketan-waje/DuplicateFileManager-main.git
 cd DuplicateFileManager
 ```
 
